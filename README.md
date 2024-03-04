@@ -1,4 +1,4 @@
-<h1 align="center">You found Strelizia</h1>
+<h1 align="center">Hi i am Hayyan</h1>
 <h3 align="center"> UI/UX | Front-end </h3>
 
 <h3 align="left">Languages and Tools:</h3>
